@@ -25,7 +25,7 @@
 
 ### :woman_technologist: About Me :
 I am a Artificial Intelligence & Data Science Student <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Sri Lanka.
-- :telescope: I’m in my 3rd Year as an AI&DS University Student in IIT affiliated with Robert Gordan University.
+- :telescope: I’m in my 4th Year as an AI&DS University Student in IIT affiliated with Robert Gordan University.
 
 - :seedling: Exploring Data Science Related Concepts and Researching.
 
